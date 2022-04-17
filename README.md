@@ -3,6 +3,7 @@
 How to use context API with hooks efficiently While avoiding performance bottlenecks
 
 ```
+npm install
 npm start
 ```
 
